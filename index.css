@@ -174,6 +174,17 @@ body{
     left: 16%
 }
 
+#fourthpage{
+    margin-top:8%;
+    left: 40%
+}
+
+#fifthpage{
+    margin-top: 9%;
+    left: 32%;
+    color:#540B0E;
+}
+
 .answer{
     position: absolute;
     font-family: Georgia;
@@ -207,4 +218,39 @@ body{
     font-size: 20px;
     top:23%;
     left:3%;
+}
+.imgs{
+    position: relative;
+    top:45%;
+    left:17%;
+}
+
+#headtext{
+    position: relative;
+    top:1%;
+    left:1%;
+    font-family: Georgia;
+    text-align: center;
+    color:#540B0E;
+    font-size: 30px;
+}
+
+#course{
+    position: relative;
+    font-family: Georgia;
+    text-align: center;
+    color:#F4EDEA;
+    font-size: 70px;
+    left:-20%;
+    top:82%;
+}
+
+#comment{
+    position: relative;
+    font-family: Georgia;
+    text-align: center;
+    color:#F4EDEA;
+    font-size:30px;
+    left:33%;
+    top:15%;
 }
