@@ -1,0 +1,210 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    width:100%;
+}
+.webcontainer{
+    width:100%;
+    min-width:600px;
+    height:auto;
+    margin:auto;
+}
+
+#me1{
+    position: absolute;
+    left: 6.5%;
+    top: 10%;
+}
+.name{
+    font-family: "Georgia";
+    writing-mode:vertical-rl;
+    text-orientation: sideways;
+    font-size: 50px;
+    font-weight:bold;
+    position: absolute;
+}
+#firstname{
+    color: #540B0E;
+    left:30%; 
+    top: 20%;
+
+}
+
+#lastname{
+    color: #f4edea;;
+    left:26%; 
+    top: 35%;
+
+}
+
+.page{
+    height:100vh;
+    width:100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: url(bg.png)	
+}
+ #page1{
+    background-image: url(bg.png)
+ }
+ #page2{
+    background-image: url(bg3.png)
+ }
+ #page3{
+    background-image: url(bg3.png)
+ }
+ #page4{
+    background-image: url(bg3.png)
+ }
+ #page5{
+    background-image: url(bg3.png)
+ }
+ #page6{
+    background-image: url(dream.png)
+ }
+
+.box{
+    width: 550px; 
+    height: 650px; 
+    position: absolute;
+    border-radius: 15%;  
+}
+#box1{
+    background-color: #9E2A2B; 
+    left: 50%;
+    top: 5%;
+}
+
+#box2{
+    background-color: #540B0E; 
+    left: -5%;
+    top: 3%;
+}
+
+#circle{
+    width: 230px; 
+    height: 230px; 
+    background-color: #540B0E; 
+    position: absolute;
+    border-radius: 50%;
+    left:7.2%;
+    top:12.3%;
+}
+
+.label{
+    position: absolute;
+    font-family: Georgia;
+    text-align: center;
+    color:#F4EDEA;
+    font-size: 30px;
+}
+
+#profile{
+    position: absolute;
+    font-family: Georgia;
+    text-align: center;
+    color:#F4EDEA;
+    font-size:60px;
+    left:25%;
+    top:9%;
+}
+
+#label1{
+    left:36%;
+    top: 30%;
+}
+
+#label2{
+    left:36%;
+    top: 45%;
+}
+
+#label3{
+    left:36%;
+    top: 60%;
+}
+
+.smallbox{
+    width: 500px; 
+    height: 40px; 
+    background-color: #F4EDEA; 
+    position: absolute;
+    font-family: Georgia;
+    text-align: center;
+    color:#540B0E;
+    font-size: 25px;
+}
+
+#sbox1{
+    left:5%;
+    top: 37%;
+}
+
+#sbox2{
+    left:5%;
+    top: 52%;
+}
+#sbox3{
+    left:5%;
+    top: 67%;
+}
+
+.question{
+    position: absolute;
+    font-family: Georgia;
+    text-align: center;
+    color:#F4EDEA;
+    font-weight: bold;
+    font-size: 50px;
+    margin-top:15%;
+}
+
+#firstpage{
+   left: 27%
+}
+
+#secondpage{
+    left: 32%
+    
+}
+
+#thirdpage{
+    left: 16%
+}
+
+.answer{
+    position: absolute;
+    font-family: Georgia;
+    text-align: center;
+    color:#D8973C;
+    font-size: 30px;
+    word-wrap: normal;
+    margin-top:30%;
+    margin-left:18%;
+    max-width:60%;
+}
+
+#textbox{
+    width: 280px; 
+    height: 180px; 
+    position: absolute;
+    border-radius: 15%;  
+    background-color: #F4EDEA; 
+    position: absolute;
+    font-family: Georgia;
+    text-align: center;
+    left:6%;
+    top: 50%;
+}
+
+#hi{
+    position: absolute;
+    font-family: Georgia;
+    text-align: center;
+    color:#540B0E;
+    font-size: 20px;
+    top:23%;
+    left:3%;
+}
